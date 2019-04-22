@@ -7,7 +7,7 @@ HTML, CSS, Bootstrap, JavaScript, jQuery, API
 ## Screenshot
 * Search Page
 <p align="center">
-  <img width="460" height="300" src="./images/mmovieSearchMainPage.PNG">
+  <img width="460" height="300" src="./images/movieSearchMainPage.PNG">
 </p>
 
 * Search Result Page
