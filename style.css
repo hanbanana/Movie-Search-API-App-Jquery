@@ -22,6 +22,12 @@
     height: calc(3rem + 2px) !important;
     border-radius:0;
 }
+
+.mainDiv {
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
 @media (min-width: 992px){
     .search-sec{
         position: relative;
